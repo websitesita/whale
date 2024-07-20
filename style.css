@@ -1,0 +1,114 @@
+.container{
+width:800px;
+margin:auto;
+background-color:white;
+}
+body{
+font:16px/28px arial,sans-serif;
+background-position: 0-100px;
+color:#333;
+}
+.header{
+padding:20px;
+}
+.header .judul{
+font-size:40px;
+font-weight:bold;
+margin-left:40px;
+color: blue;
+}
+.header ul li{
+display:inline-block;
+margin-top:1px;
+margin-right:20px;
+}
+.header a{
+text-decoration:none;
+color:dodgerblue;
+padding:3px;
+}
+.header a:hover{
+background-color:lightskyblue;
+color:white;
+}
+.image{
+height:300px;
+background-image:url(orca.jpg);
+background-size:cover;
+background-position:0-50px;
+border-bottom:5px solid dodgerblue;
+border-top:5px solid dodgerblue;
+}
+.image1{
+height:300px;
+background-image:url(orcabiru.jpeg);
+background-size:cover;
+background-position:0-100px;
+border-bottom:5px solid dodgerblue;
+border-top:5px solid dodgerblue;
+}
+.image2{
+height:300px;
+background-image:url(biru.jpg);
+background-size:cover;
+background-position:0-50px;
+border-bottom:5px solid dodgerblue;
+border-top:5px solid dodgerblue;
+}
+.image3{
+height:300px;
+background-image:url(3orca.jpg);
+background-size:cover;
+background-position:0-500px;
+border-bottom:5px solid dodgerblue;
+border-top:5px solid dodgerblue;
+}
+.image4{
+height:300px;
+background-image:url(perburuan2.jpeg);
+background-size:cover;
+background-position:0-90px;
+border-bottom:5px solid dodgerblue;
+border-top:5px solid dodgerblue;
+}
+.image5{
+height:300px;
+background-image:url(jenis.jpg);
+background-size:cover;
+background-position:0-20px;
+border-bottom:5px solid dodgerblue;
+border-top:5px solid dodgerblue;
+}
+.content{
+padding:20px;
+}
+.content h2{
+font-size:20px;
+font-weight:bold;
+}
+.content h3{
+font-size:15px;
+font-weight:bold;
+}
+.content.penulis{
+font-size:11px;
+margin-top:-5px;
+}
+.content p{
+margin-bottom:20px;
+font-size:14px;
+}
+.content .penulis a{
+color:dodgerblue;
+text-decoration:none;
+}
+.footer{
+height:50px;
+background-color:dodgerblue;
+}
+.footer .copy{
+color:white;
+text-align:center;
+font-size:12px;
+padding:10px;
+}
